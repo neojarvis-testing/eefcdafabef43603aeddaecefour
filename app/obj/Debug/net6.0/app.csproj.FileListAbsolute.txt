@@ -1,0 +1,15 @@
+/home/coder/project/workspace/app/bin/Debug/net6.0/app
+/home/coder/project/workspace/app/bin/Debug/net6.0/app.deps.json
+/home/coder/project/workspace/app/bin/Debug/net6.0/app.runtimeconfig.json
+/home/coder/project/workspace/app/bin/Debug/net6.0/app.dll
+/home/coder/project/workspace/app/bin/Debug/net6.0/app.pdb
+/home/coder/project/workspace/app/obj/Debug/net6.0/app.csproj.AssemblyReference.cache
+/home/coder/project/workspace/app/obj/Debug/net6.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/project/workspace/app/obj/Debug/net6.0/app.AssemblyInfoInputs.cache
+/home/coder/project/workspace/app/obj/Debug/net6.0/app.AssemblyInfo.cs
+/home/coder/project/workspace/app/obj/Debug/net6.0/app.csproj.CoreCompileInputs.cache
+/home/coder/project/workspace/app/obj/Debug/net6.0/app.dll
+/home/coder/project/workspace/app/obj/Debug/net6.0/refint/app.dll
+/home/coder/project/workspace/app/obj/Debug/net6.0/app.pdb
+/home/coder/project/workspace/app/obj/Debug/net6.0/app.genruntimeconfig.cache
+/home/coder/project/workspace/app/obj/Debug/net6.0/ref/app.dll
